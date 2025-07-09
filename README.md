@@ -1,4 +1,6 @@
-![Terminal GIF](terminal.gif)
+## hi
+### im florentin
+learn more about me here: https://www.florentinf.dev/
 
 <!--
 **florentinf/florentinf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
