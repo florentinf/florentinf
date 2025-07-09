@@ -1,5 +1,4 @@
-## hi
-### im florentin
+### hi, im florentin
 learn more about me here: https://www.florentinf.dev/
 
 <!--
